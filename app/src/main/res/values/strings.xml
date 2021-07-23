@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cara ou Coroa</string>
+    <string name="tv_text_drawn">Sorteio</string>
+    <string name="tv_text_drawn_hint">Digite o número máximo</string>
+    <string name="til_drawn_hint">nº</string>
+    <string name="btn_text_drawn">Jogar</string>
+    <string name="ct_drawn">Circle red</string>
+    <string name="ct_drawn_black">Circle black</string>
+    <string name="tv_drawn_result">1</string>
+    <string name="btn_text_back">Voltar</string>
+</resources>
